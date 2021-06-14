@@ -1,0 +1,74 @@
+11	//total posts
+//A post is saved in 5 lines. Data detail is given below
+//Line 0: Post ID
+//Line 1: Date	Month	Year when it was posted
+//Line 2: Post Description
+//Line 3: Page or User who has shared it
+//Line 4: List of users/Pages who have liked it. List will end with -1
+----------------------------------------------------
+post1
+14	11	2017
+Waheen Khan is excited about CP Project
+u1	-1
+u3
+----------------------------------------------------
+post2
+13	11	2017
+Busy in Midterm Exams
+u7	-1
+u3
+----------------------------------------------------
+post3
+14	11	2017
+Waiting for Weekend
+u6	u7	-1
+u11
+----------------------------------------------------
+post4
+14	11	2017
+Waiting for Result
+-1
+u12
+----------------------------------------------------
+post5
+14	11	2017
+Food Fusion is making Kashmiri Chai (Pink Tea).
+u2	p1	u3	u4 -1
+p1
+----------------------------------------------------
+post6
+14	11	2017
+Oil drilling in Alaska's indigenous communities is on the table again.
+-1
+p2
+----------------------------------------------------
+post7
+15	11	2017
+Be free of possessing things - Rumi
+u7	p5	-1
+p5
+----------------------------------------------------
+post8
+14	11	2017
+Happy Birthday to my dear Mom
+u2	u3	u4 -1
+u7
+----------------------------------------------------
+post9
+14	10	2017
+Happy Birthday to my dear Father
+u2	u4	-1
+u7
+----------------------------------------------------
+post10
+10	11	2017
+Food Fusion is making Halwa Puri.
+-1
+p1
+----------------------------------------------------
+post11
+10	10	2017
+Happy Birthday Ali Bhai
+-1
+u20
+----------------------------------------------------
